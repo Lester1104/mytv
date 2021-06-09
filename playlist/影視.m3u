@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="天映频道" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="港澳台",天映频道
+tvbus://5MT2AWWncgyQ3umNFka81RsHW2BpFfRirGTY7UUrMjS3BNAE7FVat3369XGRv
+#EXTINF:-1 tvg-id="" tvg-name="天映经典" tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png" group-title="港澳台",天映经典
+tvbus://6HbVAkQXXj4SAXKpyDt18vqEHoHVkjNQ4gSQNVtgWeBJ72VT7Yc2npgAr2WUY
+#EXTINF:-1 tvg-id="517" tvg-name="星卫HD电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" group-title="港澳台",星卫HD电影
+tvbus://6HEgk6v2dcFEp48HohXkhC73Pdye4wZ1Mgws8KK833aq6rAzythmo9Z4ZDnP9
+#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="港澳台",卫视电影台
+tvbus://5nrQfGeXF6VSqVjRZuXZmZWnMudS8QwB8zepgB92xeJe7d7x8JbH8QsffNb2q
+#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="港澳台",卫视电影台
+tvbus://6TYstdwjGu5PCmLandzpyAdnYYbt4ZePzsdKn76svDQprAr7mQts2p1KikVqx
+#EXTINF:-1 tvg-id="526" tvg-name="卫视卡式台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weishikashi.png" group-title="港澳台",卫视卡式台
+tvbus://5XASRw3ac7CzLwLsAMqbESqBHmdXNWixfXTVw7BTiEs14NfUKD5metCuQNXZm
+#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="港澳台",东森电影台
+tvbus://5fnK4ncrmUBiAai25pDbktTiswjBfoz44V9pJ4aLJY54SFpjdWYMWQsB2wAgA
+#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="港澳台",东森电影台
+tvbus://6aYHo9Fi7psn1CFbpxL7stbhc6TJiwkbp8rzJ18okPW4JFNxuKdfQT4TfpKM7
+#EXTINF:-1 tvg-id="6081" tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="港澳台",纬来电影台
+tvbus://6cGoEr7v2MEnApyeizicBLjKFqGfw2mHsVnN84oGDYCrpmxYpCPedDYsE9xgY
+#EXTINF:-1 tvg-id="6081" tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="港澳台",纬来电影台
+tvbus://5ugDqowKtLsHHqdTZz3B9rXv2GR4tQXiq44a6kvQDKuURTKScbCBwuE2S3Tph
+#EXTINF:-1 tvg-id="6082" tvg-name="LSTime电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="港澳台",LSTime电影台
+tvbus://5aRALNCyHu6HM45nV1bWpFRU57xCC3HRhg6MTH9h4y2Tw8AhckaCKH861xTok
+#EXTINF:-1 tvg-id="6082" tvg-name="LSTime电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="港澳台",LSTime电影台
+tvbus://6XfEZrHDYV4RQzgGNMqjjyxmKGqQjYmBX6XYctfj93UvwcRj9U6NBvmj6AJMt
+#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="港澳台",HBOHD
+tvbus://63U7LYaMCu6bVzx6F1rC9oJTwA29jDQsW5oJaZxAtrHNJ36JDa2RSmj4dUTgv
+#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="港澳台",HBOHD
+tvbus://6ar71dmxnMLbv2hfx62XF4pp9bL62RFTyJY8ad8j5WQxY3LhSGk7fAicBj584
+#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="港澳台",东森洋片台
+tvbus://6WvuhzptiyGW73YYbNYnCb1k1QQMTo3nMQiiYm85VdVrEAfWbqZcCqzHWRZMb
+#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="港澳台",东森洋片台
+tvbus://5LwYnVdrhSkJ9fQcsi7z28yV3YpibF1dvjsRkhG4gaheZ1xjmjwyh1YMz5y8X
+#EXTINF:-1 tvg-id="" tvg-name="卫视西片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="港澳台",卫视西片
+tvbus://6uXf7tLjQEi9x8FRTh3eFMLDxvrUV643QLBPAxsyPR5NTBB545
+#EXTINF:-1 tvg-id="7128" tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华电影.png" group-title="港澳台",龙华电影
+tvbus://6LwUVDeFb8Jsbakw6NkRVBFAA5KgeehuDN64LJKBiNRUVHAB7r42TWHiSTgsL
+#EXTINF:-1 tvg-id="7132" tvg-name="龙华洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华洋片.png" group-title="港澳台",龙华洋片
+tvbus://5oCVR6N8p7Mq9GB3WGy5Q59WbLruciS1K8AikGT3gLFfP2e86Kr5EC6nHALRg
+#EXTINF:-1 tvg-id="7132" tvg-name="龙华洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华洋片.png" group-title="港澳台",龙华洋片
+tvbus://6V8xXw3yHZrGVLyzCjzdVLntF2PJPXbWQFrFAsurARw4Y2U9jJXjyau8Xcnox
+#EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="港澳台",AXN
+tvbus://5Xa5Xi6H8hrChXWA3cxbieDjMgJ3YBxcsxZdah27A8PCAQeP92UDypH2uXdZQ
+#EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="港澳台",好莱坞电影台
+tvbus://5mZuWreLzTUCP1PsypWqFGy9SKFybZcbqJbB9KWsVALtKHdGE7gw4Ckbgv7AR
+#EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="港澳台",好莱坞电影台
+tvbus://5fpY741MBxa9skrcgdJjiKwBWoRAwa1tRC7GimLKRULk6VGSjtwtUkSjab5s7
+#EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" group-title="港澳台",FOXMOVIES
+tvbus://5i2AgQmMgxMdEnaVsmcjNpedPxdUphJdSg9CcuBRRLyh6uTYt5CXnrLBT76vP
+#EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" group-title="港澳台",FOXMOVIES
+tvbus://6gDuJsHby5CDZ4RAbqD5wivjwtaXKUUEyP28hdRAqj5QcFiukqQ76kxFvHMzs
+#EXTINF:-1 tvg-id="354" tvg-name="FOXCRIME" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXCRIME.png" group-title="港澳台",FOXCRIME
+tvbus://5gPcbjoFKgeGvg7MKKtncWgyRUUYHiVu3YksnAToAFXAep2iwN1smCApPYn1U
+#EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="港澳台",CINEMAX
+tvbus://5Qw9N9pt5zcsdoWSupAV43E6yYLF7RxVBn2zVCXW6uRs16gdzqb1AzSKUPEjH
+#EXTINF:-1 tvg-id="870" tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="港澳台",FOXActionMovies
+tvbus://6EPSdeqvXNb7KLxD89cY9miiqJ9Ug4fneLZQwmcwvdNYNitf7SnQaT923uaCf
+#EXTINF:-1 tvg-id="" tvg-name="thrill" tvg-logo="" group-title="未分类",thrill
+tvbus://6ffsBkiFt76YsMvAsynuZRMEm6u5YtvaJoPmiuwZLUVWK2Yg6TLDy5igYN88h
+#EXTINF:-1 tvg-id="710" tvg-name="FoxFamilyMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoxFamilyMovies.png" group-title="港澳台",FoxFamilyMovies
+tvbus://6geZ8Q1FXN7tbD8UFaBcjsSJeDCkXHS6NcEdf7zx6aUfUV1vrRteXCMKvquNA
+#EXTINF:-1 tvg-id="609" tvg-name="壹电视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NEXTTVMovie.png" group-title="港澳台",壹电视电影台
+tvbus://6e8ezWspDt1woNCGmZNhjYinqQfDdA5NWoosjKT9DqWG37f78GNL6y2yKiEVb
+#EXTINF:-1 tvg-id="7164" tvg-name="靖天电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天电影.png" group-title="港澳台",靖天电影台
+tvbus://5TwdQ9cS9ytejmgT77nfnGW7xYuXtGxFqeeUjhgp79yQtamqBuxYkmY4FLLbe
+#EXTINF:-1 tvg-id="" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="港澳台",美亚高清电影台
+tvbus://6fXbnEVt2xue4aYZga9ER8ftVvU1tycYH4S4rqjBgsmGSu6WrAFcD8cQUVgiG
+#EXTINF:-1 tvg-id="6149" tvg-name="WarnerTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/WarnerTV.png" group-title="港澳台",WarnerTV
+tvbus://5UxHXdFViXsCDAG1Rp5VjR93q28qaCHFXodkRPGEfq6E2xXAzkh3v5HYAgcyT
+#EXTINF:-1 tvg-id="7206" tvg-name="CatchPlay电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/catchplay.png" group-title="港澳台",CatchPlay电影
+tvbus://5KkNqoQ2jK5w7Z4RqFLiDppxWv29gctUDiNm2XTMwuZertsfjNARUPM9Ymix7
+#EXTINF:-1 tvg-id="7206" tvg-name="CatchPlay电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/catchplay.png" group-title="港澳台",CatchPlay电影
+tvbus://6B6tyKnzANhMzbHgCTtqf1fRfFTZXGBUhNBVqksQpJzYe11TfgjagSo7xndTG
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="港澳台",HBOSignature
+tvbus://6XTmHfPsQFC9HsPDjJQsiwnqnFtfdx4ekQUu2M2CfkEFXwxQr1fdWgLaVtp4X
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="港澳台",HBOSignature
+tvbus://5fD8XrTZToQuLXRyT8f3tAU6z8R1pzgBhne7i1s39wy5GoaU2sMexgoCDLs3D
+#EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="港澳台",HBOHits
+tvbus://6iNsHPHjnbesMhw11RHS4sSfjkBp7i6wEEjfDcEq8rNQLt5wBnNv1Y4cJaQMK
+#EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="港澳台",HBOHits
+tvbus://6UbBVJiRs2dEjUr4t6FDvFuTzXPbRhBwekBnpdg9iU5R5bvHm8ig4o2jSUiCR
+#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="港澳台",HBOFamily
+tvbus://5aBHDtkysiAPD6ssRqqVaYvnAUDL6K5yz3iqKY5h9sC7rhP5R5aw13jY1v9rK
+#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="港澳台",HBOFamily
+tvbus://5RmLrx97kK8mz9obEU8Tfo5dcq4dfaC2Vz1kut3cYZNLoZZT6hsm457HXCyUd
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="港澳台",tvN
+tvbus://65KYwFzVqS88CUAqVYKj9ymf7R7CLMNHhbVB7DnYMHezRAzZLkEWqrFpkah2N
+#EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="港澳台",TVB星河频道
+tvbus://6GD4drDe9s97AgKXotL5hjbAbfjVAek3d31CJ1fwx7AfHKKAHLC9bYuTC4dfZ
+#EXTINF:-1 tvg-id="129" tvg-name="TVB经典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="港澳台",TVB经典台
+tvbus://6R9gMZRtc4q7cXDSAunNjupchquEeGcHaGtTVZLpjF3hiohqzQ2VBpyk64wNK
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",香港开电视
+tvbus://6fsQou6zBDhugncdm41whPZWJSNRysBNA8ApnEZpHZPAzfYRcK1WiPowMwLer
+#EXTINF:-1 tvg-id="" tvg-name="爆谷台" tvg-logo="https://raw.githubusercontent.com/Lester1104/iptv/main/icon/%E7%88%86%E8%B0%B7%E5%8F%B0.jpg?token=AUFIA2L5E2QRH7SPV3T6GJ3AYC7IG" group-title="港澳台",爆谷台
+tvbus://5TyTrVuP5Ux1Wnngj1vBqZvtBEk6EdWymRxHcXa3ppqn4yZK1gk12R9rwnifG
+#EXTINF:-1 tvg-id="" tvg-name="凤凰电影" tvg-logo="https://raw.githubusercontent.com/Lester1104/iptv/main/icon/%E5%87%A4%E5%87%B0%E7%94%B5%E5%BD%B1%E5%8F%B0.jpg?token=AUFIA2PKLJV3CX7TXUPJLRLAYC7EM" group-title="港澳台",凤凰电影
+tvbus://6MGQVckYd66tyyBeCyaM9Bu4hcjQA8tZggo2ky9zahSQSrwfAwC6FiXQhQwRN
+#EXTINF:-1 tvg-id="" tvg-name="有线电影台" tvg-logo="https://raw.githubusercontent.com/Lester1104/iptv/main/icon/%E6%9C%89%E7%BA%BF%E7%94%B5%E5%BD%B1%E5%8F%B0.jpg" group-title="港澳台",有线电影台
+tvbus://5pjpAm5P6gk4ecjv1LZnLwiUu8RYSHS1UFUAdRp45rrHrRXR5Bp5i64fd8rMF

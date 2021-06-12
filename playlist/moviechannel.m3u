@@ -55,7 +55,7 @@ tvbus://5gPcbjoFKgeGvg7MKKtncWgyRUUYHiVu3YksnAToAFXAep2iwN1smCApPYn1U
 tvbus://5Qw9N9pt5zcsdoWSupAV43E6yYLF7RxVBn2zVCXW6uRs16gdzqb1AzSKUPEjH
 #EXTINF:-1 tvg-id="870" tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="港澳台",FOXActionMovies
 tvbus://6EPSdeqvXNb7KLxD89cY9miiqJ9Ug4fneLZQwmcwvdNYNitf7SnQaT923uaCf
-#EXTINF:-1 tvg-id="" tvg-name="thrill" tvg-logo="" group-title="未分类",thrill
+#EXTINF:-1 tvg-id="" tvg-name="thrill" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="未分类",thrill
 tvbus://6ffsBkiFt76YsMvAsynuZRMEm6u5YtvaJoPmiuwZLUVWK2Yg6TLDy5igYN88h
 #EXTINF:-1 tvg-id="710" tvg-name="FoxFamilyMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoxFamilyMovies.png" group-title="港澳台",FoxFamilyMovies
 tvbus://6geZ8Q1FXN7tbD8UFaBcjsSJeDCkXHS6NcEdf7zx6aUfUV1vrRteXCMKvquNA
@@ -93,7 +93,7 @@ tvbus://6R9gMZRtc4q7cXDSAunNjupchquEeGcHaGtTVZLpjF3hiohqzQ2VBpyk64wNK
 tvbus://6fsQou6zBDhugncdm41whPZWJSNRysBNA8ApnEZpHZPAzfYRcK1WiPowMwLer
 #EXTINF:-1 tvg-id="" tvg-name="爆谷台" tvg-logo="https://raw.githubusercontent.com/Lester1104/iptv/main/icon/baogutai.jpg?token=AUFIA2ID6SYHTFTFYJHQPTDAYTHTG" group-title="港澳台",爆谷台
 tvbus://5TyTrVuP5Ux1Wnngj1vBqZvtBEk6EdWymRxHcXa3ppqn4yZK1gk12R9rwnifG
-#EXTINF:-1 tvg-id="" tvg-name="凤凰电影" tvg-logo="https://raw.githubusercontent.com/Lester1104/iptv/main/icon/fenghuangdianyingtai.jpg?token=AUFIA2NOL3J7SRF5CYGD5TTAYTHVI" group-title="港澳台",凤凰电影
+#EXTINF:-1 tvg-id="" tvg-name="凤凰电影" tvg-logo="https://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="港澳台",凤凰电影
 tvbus://6MGQVckYd66tyyBeCyaM9Bu4hcjQA8tZggo2ky9zahSQSrwfAwC6FiXQhQwRN
 #EXTINF:-1 tvg-id="" tvg-name="有线电影台" tvg-logo="https://raw.githubusercontent.com/Lester1104/iptv/main/icon/youxiandianyingtai.jpg?token=AUFIA2PJLVCXPAYPRY6MUM3AYTHXK" group-title="港澳台",有线电影台
 tvbus://5pjpAm5P6gk4ecjv1LZnLwiUu8RYSHS1UFUAdRp45rrHrRXR5Bp5i64fd8rMF

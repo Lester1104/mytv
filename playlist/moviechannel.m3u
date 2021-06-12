@@ -91,9 +91,9 @@ tvbus://6GD4drDe9s97AgKXotL5hjbAbfjVAek3d31CJ1fwx7AfHKKAHLC9bYuTC4dfZ
 tvbus://6R9gMZRtc4q7cXDSAunNjupchquEeGcHaGtTVZLpjF3hiohqzQ2VBpyk64wNK
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",香港开电视
 tvbus://6fsQou6zBDhugncdm41whPZWJSNRysBNA8ApnEZpHZPAzfYRcK1WiPowMwLer
-#EXTINF:-1 tvg-id="" tvg-name="爆谷台" tvg-logo="https://raw.githubusercontent.com/Lester1104/iptv/main/icon/爆谷台.jpg?token=AUFIA2IHKYOIWZ6IHPZSBDDAYQVT6" group-title="港澳台",爆谷台
+#EXTINF:-1 tvg-id="" tvg-name="爆谷台" tvg-logo="https://raw.githubusercontent.com/Lester1104/iptv/main/icon/baogutai.jpg?token=AUFIA2ID6SYHTFTFYJHQPTDAYTHTG" group-title="港澳台",爆谷台
 tvbus://5TyTrVuP5Ux1Wnngj1vBqZvtBEk6EdWymRxHcXa3ppqn4yZK1gk12R9rwnifG
-#EXTINF:-1 tvg-id="" tvg-name="凤凰电影" tvg-logo="https://raw.githubusercontent.com/Lester1104/iptv/main/icon/%E5%87%A4%E5%87%B0%E7%94%B5%E5%BD%B1%E5%8F%B0.jpg?token=AUFIA2PKLJV3CX7TXUPJLRLAYC7EM" group-title="港澳台",凤凰电影
+#EXTINF:-1 tvg-id="" tvg-name="凤凰电影" tvg-logo="https://raw.githubusercontent.com/Lester1104/iptv/main/icon/fenghuangdianyingtai.jpg?token=AUFIA2NOL3J7SRF5CYGD5TTAYTHVI" group-title="港澳台",凤凰电影
 tvbus://6MGQVckYd66tyyBeCyaM9Bu4hcjQA8tZggo2ky9zahSQSrwfAwC6FiXQhQwRN
-#EXTINF:-1 tvg-id="" tvg-name="有线电影台" tvg-logo="https://raw.githubusercontent.com/Lester1104/iptv/main/icon/%E6%9C%89%E7%BA%BF%E7%94%B5%E5%BD%B1%E5%8F%B0.jpg" group-title="港澳台",有线电影台
+#EXTINF:-1 tvg-id="" tvg-name="有线电影台" tvg-logo="https://raw.githubusercontent.com/Lester1104/iptv/main/icon/youxiandianyingtai.jpg?token=AUFIA2PJLVCXPAYPRY6MUM3AYTHXK" group-title="港澳台",有线电影台
 tvbus://5pjpAm5P6gk4ecjv1LZnLwiUu8RYSHS1UFUAdRp45rrHrRXR5Bp5i64fd8rMF

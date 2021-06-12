@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
+http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2
+http://61.238.6.49:8001/bysid/82
+#EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="港澳台",TVB星河频道
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻
+http://qj.yyrjdp.cn/jiuban/tvb22.php?id=1&token=jkahlcs42afaoi42
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经
+http://qj.yyrjdp.cn/jiuban/tvb22.php?id=2&token=jkahlcs42afaoi42
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV
+http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV6
+http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTHK 31" tvg-logo="" group-title="港澳台",RTHK 31
+http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTHK 33" tvg-logo="" group-title="港澳台",RTHK 33
+http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
+https://player.ggiptv.com/v/ifeng.php?id=3
+#EXTINF:-1 tvg-id="" tvg-name="天映经典" tvg-logo="" group-title="马来西亚",天映经典
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="天映频道" tvg-logo="" group-title="马来西亚",天映频道
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 tvg-id="527" tvg-name="CHANNEL[V]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="港澳台",CHANNEL[V]
+rtmp://58.200.131.3:1935/livetv/channelv
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="港澳台",国家地理频道
+rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="港澳台",Discovery
+rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
+#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台",民视
+http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
+#EXTINF:-1 tvg-id="7133" tvg-name="民视第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="港澳台",民视第一台
+http://185.207.176.189:8080/channels/tw-301/playlist.m3u8
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻台
+http://185.207.176.189:8080/channels/tw-302/playlist.m3u8
+#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="港澳台",中视
+http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="港澳台",中视新闻
+http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
+#EXTINF:-1 tvg-id="7172" tvg-name="中视经典" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视经典.png" group-title="港澳台",中视经典
+http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
+#EXTINF:-1 tvg-id="7136" tvg-name="中视菁采台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视菁采.png" group-title="港澳台",中视菁采台
+http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
+#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港澳台",华视
+http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="华视教育体育文化" tvg-logo="" group-title="港澳台",华视教育体育文化
+http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="华视新闻资讯" tvg-logo="" group-title="港澳台",华视新闻资讯
+http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="国会频道1" tvg-logo="" group-title="港澳台",国会频道1
+http://185.207.176.189:8080/channels/tw-504/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="国会频道2" tvg-logo="" group-title="港澳台",国会频道2
+http://185.207.176.189:8080/channels/tw-505/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="武林外传" tvg-logo="" group-title="影视轮播",武林外传
+http://ai6844823.vc3.aihost10.top/huya.php?id=11352915
+#EXTINF:-1 tvg-id="" tvg-name="家有儿女" tvg-logo="" group-title="影视轮播",家有儿女
+http://ai6844823.vc3.aihost10.top/huya.php?id=11352872
+#EXTINF:-1 tvg-id="" tvg-name="猫和老鼠" tvg-logo="" group-title="影视轮播",猫和老鼠
+http://ai6844823.vc3.aihost10.top/huya.php?id=11352879
+#EXTINF:-1 tvg-id="" tvg-name="周星驰" tvg-logo="" group-title="影视轮播",周星驰
+http://ai6844823.vc3.aihost10.top/huya.php?id=11342412
+#EXTINF:-1 tvg-id="" tvg-name="林正英" tvg-logo="" group-title="影视轮播",林正英
+http://ai6844823.vc3.aihost10.top/huya.php?id=11342421
+#EXTINF:-1 tvg-id="" tvg-name="成龙" tvg-logo="" group-title="影视轮播",成龙
+http://ai6844823.vc3.aihost10.top/huya.php?id=11342386
+#EXTINF:-1 tvg-id="" tvg-name="周润发" tvg-logo="" group-title="影视轮播",周润发
+http://ai6844823.vc3.aihost10.top/huya.php?id=11342387
+#EXTINF:-1 tvg-id="" tvg-name="洪金宝" tvg-logo="" group-title="影视轮播",洪金宝
+http://ai6844823.vc3.aihost10.top/huya.php?id=11342427
+#EXTINF:-1 tvg-id="" tvg-name="刘德华" tvg-logo="" group-title="影视轮播",刘德华
+http://ai6844823.vc3.aihost10.top/huya.php?id=11342424
+#EXTINF:-1 tvg-id="" tvg-name="张国荣" tvg-logo="" group-title="影视轮播",张国荣
+http://ai6844823.vc3.aihost10.top/huya.php?id=11602034
+#EXTINF:-1 tvg-id="" tvg-name="李连杰" tvg-logo="" group-title="影视轮播",李连杰
+http://ai6844823.vc3.aihost10.top/huya.php?id=11342390
+#EXTINF:-1 tvg-id="" tvg-name="港产恐怖" tvg-logo="" group-title="影视轮播",港产恐怖
+http://ai6844823.vc3.aihost10.top/huya.php?id=11601960
+#EXTINF:-1 tvg-id="" tvg-name="港产搞笑" tvg-logo="" group-title="影视轮播",港产搞笑
+http://ai6844823.vc3.aihost10.top/huya.php?id=11342423
+#EXTINF:-1 tvg-id="" tvg-name="粤语港片" tvg-logo="" group-title="影视轮播",粤语港片
+http://ai6844823.vc3.aihost10.top/huya.php?id=11352894
+#EXTINF:-1 tvg-id="" tvg-name="国产喜剧" tvg-logo="" group-title="影视轮播",国产喜剧
+http://ai6844823.vc3.aihost10.top/huya.php?id=11602044
+#EXTINF:-1 tvg-id="" tvg-name="国产恐怖" tvg-logo="" group-title="影视轮播",国产恐怖
+http://ftp9524803.host166.gotoip4.cn/huya.php?id=11352945
+#EXTINF:-1 tvg-id="" tvg-name="松视1台" tvg-logo="" group-title="18+",松视1台
+rtmp://161.202.204.248:1935/tv/ttv11
+#EXTINF:-1 tvg-id="" tvg-name="Happy Channel" tvg-logo="" group-title="18+",Happy Channel
+rtmp://161.202.204.248:1935/tv/ttv12

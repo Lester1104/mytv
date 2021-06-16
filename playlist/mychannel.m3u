@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="港澳台",翡翠台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/Lester1104/mytv/main/icon/hk/tvbfeicuitai.png" group-title="港澳台",翡翠台
 http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2
 http://61.238.6.49:8001/bysid/82
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="港澳台",TVB星河频道
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/Lester1104/mytv/main/icon/hk/tvbwuxianxinwentai.png" group-title="港澳台",无线新闻
 http://qj.yyrjdp.cn/jiuban/tvb22.php?id=1&token=jkahlcs42afaoi42
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经·资讯" tvg-logo="https://raw.githubusercontent.com/Lester1104/mytv/main/icon/hk/tvbwuxiancaijingzixuntai.png" group-title="港澳台",无线财经·资讯
 http://qj.yyrjdp.cn/jiuban/tvb22.php?id=2&token=jkahlcs42afaoi42
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV
 http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
@@ -85,7 +85,7 @@ http://blanki.cf/api/douyu.php?id=3637726
 http://blanki.cf/api/douyu.php?id=3637765
 #EXTINF:-1 tvg-id="" tvg-name="粤语电影" tvg-logo="" group-title="影视轮播",粤语电影
 http://blanki.cf/api/douyu.php?id=6566671
-#EXTINF:-1 tvg-id="" tvg-name="粤语电影" tvg-logo="" group-title="影视轮播",粤语电影
+#EXTINF:-1 tvg-id="" tvg-name="粤语电影2" tvg-logo="" group-title="影视轮播",粤语电影2
 http://blanki.cf/api/douyu.php?id=2466104
 #EXTINF:-1 tvg-id="" tvg-name="国产喜剧" tvg-logo="" group-title="影视轮播",国产喜剧
 https://223776033425a3e28590356e877bf03e.v.smtcdns.net/d1--cn-gotcha04.bilivideo.com/live-bvc/952659/live_123336671_4216482_1500.flv?cdn=cn-gotcha04&expires=1623851579&free_type=0&len=0&oi=1864307456&p2p_type=0&pt=web&qn=0&sign=566de6dc7a36b31ec77a689f4d66c26e&sigparams=cdn,expires,len,oi,pt,qn,trid&sk=417e709c171a500&sl=2&src=9&svr_type=live_oc&tencent_test_client_ip=111.31.19.0&trid=100003dbc6a7fa4c44be9bf750436b172cc4&dispatch_from=ztc9.42.26.250&utime=1623847920244_0

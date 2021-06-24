@@ -54,45 +54,65 @@ http://185.207.176.189:8080/channels/tw-504/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="国会频道2" tvg-logo="" group-title="港澳台",国会频道2
 http://185.207.176.189:8080/channels/tw-505/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="武林外传" tvg-logo="" group-title="影视轮播",武林外传
-http://ai6844823.vc3.aihost10.top/huya.php?id=11352915
+http://2098822049.kj.gerss.cn/6/huy33.php?id=11352915
 #EXTINF:-1 tvg-id="" tvg-name="家有儿女" tvg-logo="" group-title="影视轮播",家有儿女
-http://ai6844823.vc3.aihost10.top/huya.php?id=11352872
+http://2098822049.kj.gerss.cn/6/huy33.php?id=11352872
+#EXTINF:-1 tvg-id="" tvg-name="家有儿女2" tvg-logo="" group-title="影视轮播",家有儿女2
+http://api.gerss.cn/QQ626112999/iqy.php?id=107
+#EXTINF:-1 tvg-id="" tvg-name="搞笑一家人" tvg-logo="" group-title="影视轮播",搞笑一家人
+http://2098822049.kj.gerss.cn/6/huy33.php?id=11342402
 #EXTINF:-1 tvg-id="" tvg-name="猫和老鼠" tvg-logo="" group-title="影视轮播",猫和老鼠
-https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/980260/live_379990537_4599312.m3u8
+http://api.gerss.cn/QQ626112999/iqy.php?id=079
+#EXTINF:-1 tvg-id="" tvg-name="历史秘闻" tvg-logo="" group-title="影视轮播",历史秘闻
+http://api.gerss.cn/QQ626112999/iqy.php?id=046
 #EXTINF:-1 tvg-id="" tvg-name="周星驰1" tvg-logo="" group-title="影视轮播",周星驰1
-http://333222.usa7.345123.xyz/huya.php?id=11342412
-#EXTINF:-1 tvg-id="" tvg-name="周星驰1(备)" tvg-logo="" group-title="影视轮播",周星驰1(备)
 http://121.12.115.156/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="周星驰1(备)" tvg-logo="" group-title="影视轮播",周星驰1(备)
+http://2098822049.kj.gerss.cn/6/huy33.php?id=11342412
 #EXTINF:-1 tvg-id="" tvg-name="周星驰2" tvg-logo="" group-title="影视轮播",周星驰2
-http://333222.usa7.345123.xyz/huya.php?id=19105261
+http://42.81.144.99/live.cache.cmvideo.cn/wd_r3/virtuallive/5100144102/150/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="林正英" tvg-logo="" group-title="影视轮播",林正英
-http://333222.usa7.345123.xyz/huya.php?id=11342421
-#EXTINF:-1 tvg-id="" tvg-name="成龙" tvg-logo="" group-title="影视轮播",成龙
-http://333222.usa7.345123.xyz/huya.php?id=11342386
+http://121.12.115.156/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="林正英(备)" tvg-logo="" group-title="影视轮播",林正英(备)
+http://2098822049.kj.gerss.cn/6/huy33.php?id=11342421
+#EXTINF:-1 tvg-id="" tvg-name="成龙1" tvg-logo="" group-title="影视轮播",成龙1
+http://42.81.144.99/live.cache.cmvideo.cn/wd_r2/virtuallive/5102010211/150/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="成龙2" tvg-logo="" group-title="影视轮播",成龙2
+http://121.12.115.156/tx.hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="成龙2(备)" tvg-logo="" group-title="影视轮播",成龙2(备)
+http://2098822049.kj.gerss.cn/6/huy33.php?id=11342386
 #EXTINF:-1 tvg-id="" tvg-name="周润发" tvg-logo="" group-title="影视轮播",周润发
-http://333222.usa7.345123.xyz/huya.php?id=11342387
-#EXTINF:-1 tvg-id="" tvg-name="周润发(备)" tvg-logo="" group-title="影视轮播",周润发(备)
 http://121.12.115.156/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="周润发(备)" tvg-logo="" group-title="影视轮播",周润发(备)
+http://2098822049.kj.gerss.cn/6/huy33.php?id=11342387
 #EXTINF:-1 tvg-id="" tvg-name="洪金宝" tvg-logo="" group-title="影视轮播",洪金宝
-http://libaoquan.1uu.top/huya.php?id=11342427
-#EXTINF:-1 tvg-id="" tvg-name="刘德华" tvg-logo="" group-title="影视轮播",刘德华
-http://333222.usa7.345123.xyz/huya.php?id=11342424
-#EXTINF:-1 tvg-id="" tvg-name="刘德华(备)" tvg-logo="" group-title="影视轮播",刘德华(备)
+http://121.12.115.156/tx.hls.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="刘德华1" tvg-logo="" group-title="影视轮播",刘德华1
+http://42.81.144.99/live.cache.cmvideo.cn/wd_r3/virtuallive/5102354855/150/index.m3u8?&&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="刘德华2" tvg-logo="" group-title="影视轮播",刘德华2
 http://121.12.115.156/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="刘德华2(备)" tvg-logo="" group-title="影视轮播",刘德华2(备)
+http://2098822049.kj.gerss.cn/6/huy33.php?id=11342424
 #EXTINF:-1 tvg-id="" tvg-name="张国荣" tvg-logo="" group-title="影视轮播",张国荣
-http://ai6844823.vc3.aihost10.top/huya.php?id=11602034
+http://42.81.144.99/live.cache.cmvideo.cn/wd_r3/virtuallive/5102354727/150/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="李连杰" tvg-logo="" group-title="影视轮播",李连杰
-http://333222.usa7.345123.xyz/huya.php?id=11342390
-#EXTINF:-1 tvg-id="" tvg-name="李连杰(备)" tvg-logo="" group-title="影视轮播",李连杰(备)
 http://121.12.115.156/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="李连杰(备)" tvg-logo="" group-title="影视轮播",李连杰(备)
+http://2098822049.kj.gerss.cn/6/huy33.php?id=11342390
 #EXTINF:-1 tvg-id="" tvg-name="邱淑贞" tvg-logo="" group-title="影视轮播",邱淑贞
 http://333222.usa7.345123.xyz/huya.php?id=11352949
 #EXTINF:-1 tvg-id="" tvg-name="徐峥" tvg-logo="" group-title="影视轮播",徐峥
-http://333222.usa7.345123.xyz/huya.php?id=11602043
-#EXTINF:-1 tvg-id="" tvg-name="徐峥(备)" tvg-logo="" group-title="影视轮播",徐峥(备)
 http://121.12.115.156/tx.hls.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="徐峥(备)" tvg-logo="" group-title="影视轮播",徐峥(备)
+http://2098822049.kj.gerss.cn/6/huy33.php?id=11602043
 #EXTINF:-1 tvg-id="" tvg-name="沈腾" tvg-logo="" group-title="影视轮播",沈腾
 http://121.12.115.156/tx.hls.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="沈腾(备)" tvg-logo="" group-title="影视轮播",沈腾(备)
+http://2098822049.kj.gerss.cn/6/huy33.php?id=11601968
+#EXTINF:-1 tvg-id="" tvg-name="黄渤" tvg-logo="" group-title="影视轮播",黄渤
+http://2098822049.kj.gerss.cn/6/huy33.php?id=11352876
+#EXTINF:-1 tvg-id="" tvg-name="欢乐小品" tvg-logo="" group-title="影视轮播",欢乐小品
+http://2098822049.kj.gerss.cn/6/huy33.php?id=11352938
 #EXTINF:-1 tvg-id="" tvg-name="港产恐怖" tvg-logo="" group-title="影视轮播",港产恐怖
 http://blanki.cf/api/douyu.php?id=3637726
 #EXTINF:-1 tvg-id="" tvg-name="港产动作" tvg-logo="" group-title="影视轮播",港产动作
@@ -101,8 +121,8 @@ http://blanki.cf/api/douyu.php?id=3637765
 http://blanki.cf/api/douyu.php?id=6566671
 #EXTINF:-1 tvg-id="" tvg-name="粤语电影2" tvg-logo="" group-title="影视轮播",粤语电影2
 http://blanki.cf/api/douyu.php?id=2466104
-#EXTINF:-1 tvg-id="" tvg-name="国产喜剧" tvg-logo="" group-title="影视轮播",国产喜剧
-https://223776033425a3e28590356e877bf03e.v.smtcdns.net/d1--cn-gotcha04.bilivideo.com/live-bvc/952659/live_123336671_4216482_1500.flv?cdn=cn-gotcha04&expires=1623851579&free_type=0&len=0&oi=1864307456&p2p_type=0&pt=web&qn=0&sign=566de6dc7a36b31ec77a689f4d66c26e&sigparams=cdn,expires,len,oi,pt,qn,trid&sk=417e709c171a500&sl=2&src=9&svr_type=live_oc&tencent_test_client_ip=111.31.19.0&trid=100003dbc6a7fa4c44be9bf750436b172cc4&dispatch_from=ztc9.42.26.250&utime=1623847920244_0
+#EXTINF:-1 tvg-id="" tvg-name="经典港片" tvg-logo="" group-title="影视轮播",经典港片
+http://api.gerss.cn/QQ626112999/iqy.php?id=031
 #EXTINF:-1 tvg-id="" tvg-name="永远致敬香港电影" tvg-logo="" group-title="影视轮播",永远致敬香港电影
 http://blanki.cf/api/douyu.php?id=9599544
 #EXTINF:-1 tvg-id="" tvg-name="【林正英】僵尸、女鬼" tvg-logo="" group-title="影视轮播",【林正英】僵尸、女鬼

@@ -12,9 +12,9 @@ http://iptv.tvfix.org/hls/finance.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV
 http://iptv.tvfix.org/hls/viutv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTHK 31" tvg-logo="https://i.imgur.com/H36G8wZ.png" group-title="港澳台",RTHK 31
-http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTHK 33" tvg-logo="" group-title="港澳台",RTHK 33
-http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
+http://iptv.tvfix.org/hls/rthk31.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTHK 32" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png" group-title="港澳台",RTHK 32
+http://iptv.tvfix.org/hls/rthk32.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="美亚电影台(香港)" tvg-logo="https://raw.githubusercontent.com/Lester1104/mytv/main/icon/tw/meiyadianyingtai.png" group-title="港澳台",美亚电影台(香港)
 http://iptv.tvfix.org/hls/mydy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="now爆谷台" tvg-logo="https://raw.githubusercontent.com/Lester1104/mytv/main/icon/hk/baogutai.png" group-title="港澳台",now爆谷台
@@ -23,9 +23,9 @@ http://v3948069e.live.126.net:80/live/Nowbg.flv
 http://iptv.tvfix.org/hls/tvn.m3u8
 #EXTINF:-1 tvg-id="6152" tvg-name="HBO(香港)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="港澳台",HBO(香港)
 http://iptv.tvfix.org/hls/hbo.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="thrill" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="港澳台",thrill
+#EXTINF:-1 tvg-id="143" tvg-name="thrill(香港)" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="港澳台",thrill(香港)
 http://iptv.tvfix.org/hls/thrill.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCM天映经典" tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png" group-title="港澳台",CCM天映经典
+#EXTINF:-1 tvg-id="" tvg-name="CCM天映经典(香港)" tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png" group-title="港澳台",CCM天映经典(香港)
 http://iptv.tvfix.org/hls/tyjd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="天映频道" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="马来西亚",天映频道
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
@@ -37,7 +37,7 @@ http://50.7.61.147:30080/Entry/starmovie
 http://iptv.tvfix.org/hls/fhdy.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港台
 https://player.ggiptv.com/v/ifeng.php?id=3
-#EXTINF:-1 tvg-id="527" tvg-name="CHANNEL[V]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="港澳台",CHANNEL[V]
+#EXTINF:-1 tvg-id="527" tvg-name="Channel V" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="港澳台",Channel V
 http://iptv.tvfix.org/hls/channelv.m3u8
 #EXTINF:-1 tvg-id="527" tvg-name="星空卫视" tvg-logo="https://github.com/iptv-org/iptv/blob/master/channels/hk.m3u#:~:text=https%3A//upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px%2DXing_Kong_Wei_Shi.jpg" group-title="港澳台",星空卫视
 http://iptv.tvfix.org/hls/startv.m3u8
@@ -51,12 +51,16 @@ http://iptv.tvfix.org/hls/discovery.m3u8
 http://livetv.dnsfor.me/channel.5.m3u8
 #EXTINF:-1 tvg-id="7135" tvg-name="now新闻台" tvg-logo="https://raw.githubusercontent.com/Lester1104/mytv/main/icon/hk/nowxinwentai.png" group-title="港澳台",now新闻台
 http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 tvg-id="7135" tvg-name="中天新闻台" tvg-logo="" group-title="港澳台",中天新闻台
+http://iptv.tvfix.org/hls/ztxw.m3u8
+#EXTINF:-1 tvg-id="7135" tvg-name="东森新闻台" tvg-logo="" group-title="港澳台",东森新闻台
+http://iptv.tvfix.org/hls/dsxw.m3u8
 #EXTINF:-1 tvg-id="7135" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻台
 http://iptv.tvfix.org/hls/tvbsnews.m3u8
+#EXTINF:-1 tvg-id="7135" tvg-name="TVBS亚洲台" tvg-logo="" group-title="港澳台",TVBS亚洲台
+http://iptv.tvfix.org/hls/tvbs.m3u8
 #EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="港澳台",民视
 http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
-#EXTINF:-1 tvg-id="7133" tvg-name="民视第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="港澳台",民视第一台
-http://185.207.176.189:8080/channels/tw-301/playlist.m3u8
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="https://i.imgur.com/6jbjVNy.png" group-title="港澳台",民视新闻台
 http://211.23.114.106:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
 #EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="港澳台",中视
@@ -65,14 +69,8 @@ http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
 http://seb.sason.top/sc/zsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="7172" tvg-name="中视经典" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视经典.png" group-title="港澳台",中视经典
 http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
-#EXTINF:-1 tvg-id="7136" tvg-name="中视菁采台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视菁采.png" group-title="港澳台",中视菁采台
-http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
 #EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港澳台",华视
 http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华视教育体育文化" tvg-logo="" group-title="港澳台",华视教育体育文化
-http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华视新闻资讯" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/27/Cts_news_info.png/200px-Cts_news_info.png" group-title="港澳台",华视新闻资讯
-http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="松视2台" tvg-logo="https://raw.githubusercontent.com/Lester1104/mytv/main/icon/tw/songshi2tai(white%20background).jpg" group-title="18+",松视2台
 https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
 #EXTINF:-1 tvg-id="" tvg-name="松视3台" tvg-logo="https://raw.githubusercontent.com/Lester1104/mytv/main/icon/tw/songshi3tai(white%20background).jpg" group-title="18+",松视3台
@@ -81,8 +79,42 @@ https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
 https://flv3948069e.live.126.net/live/sytv_02630be6be846d47da6dde603e773bc3.flv
 #EXTINF:-1 tvg-id="" tvg-name="潘朵啦玩美台" tvg-logo="https://raw.githubusercontent.com/Lester1104/mytv/main/icon/tw/pandoraperfect(white%20background).jpg" group-title="18+",潘朵啦玩美台
 https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
-#EXTINF:-1 tvg-id="" tvg-name="Happy Channel" tvg-logo="" group-title="18+",Happy Channel
-rtmp://161.202.204.248:1935/tv/ttv12
+#EXTINF:-1 tvg-id="" tvg-name="红松" tvg-logo="" group-title="18+",红松
+http://api.hstv.me:8080/live/pi2021001/456321/361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOT+ 西洋黑映畫頻道" tvg-logo="" group-title="18+",HOT+ 西洋黑映畫頻道
+http://api.hstv.me:8080/live/pi2021001/456321/362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NYX MEDIA(無碼)" tvg-logo="" group-title="18+",NYX MEDIA(無碼)
+http://api.hstv.me:8080/live/pi2021001/456321/364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NYX MEDIA2(無碼)" tvg-logo="" group-title="18+",NYX MEDIA2(無碼)
+http://api.hstv.me:8080/live/pi2021001/456321/365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NYX MEDIA3(有碼)" tvg-logo="" group-title="18+",NYX MEDIA3(有碼)
+http://api.hstv.me:8080/live/pi2021001/456321/368.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NYX MEDIA4(無碼)" tvg-logo="" group-title="18+",NYX MEDIA4(無碼)
+http://api.hstv.me:8080/live/pi2021001/456321/369.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NYX MEDIA5(有碼)" tvg-logo="" group-title="18+",NYX MEDIA5(有碼)
+http://api.hstv.me:8080/live/pi2021001/456321/360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="iBiza Media" tvg-logo="" group-title="18+",iBiza Media
+http://api.hstv.me:8080/live/pi2021001/456321/366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="iBiza Media2" tvg-logo="" group-title="18+",iBiza Media2
+iBiza Media2,http://api.hstv.me:8080/live/pi2021001/456321/367.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IBiZa-TV3 尻尻SOD" tvg-logo="" group-title="18+",IBiZa-TV3 尻尻SOD
+http://api.hstv.me:8080/live/pi2021001/456321/363.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="红松" tvg-logo="" group-title="18+",红松
+http://195.154.231.101:8080/live/pi2021001/456321/361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOT+ 西洋黑映畫頻道" tvg-logo="" group-title="18+",HOT+ 西洋黑映畫頻道
+http://195.154.231.101:8080/live/pi2021001/456321/362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NYX MEDIA(無碼)" tvg-logo="" group-title="18+",NYX MEDIA(無碼)
+http://195.154.231.101:8080/live/pi2021001/456321/364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NYX MEDIA2(無碼)" tvg-logo="" group-title="18+",NYX MEDIA2(無碼)
+http://195.154.231.101:8080/live/pi2021001/456321/365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NYX MEDIA3(有碼)" tvg-logo="" group-title="18+",NYX MEDIA3(有碼)
+http://195.154.231.101:8080/live/pi2021001/456321/368.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NYX MEDIA4(無碼)" tvg-logo="" group-title="18+",NYX MEDIA4(無碼)
+http://195.154.231.101:8080/live/pi2021001/456321/369.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NYX MEDIA5(有碼)" tvg-logo="" group-title="18+",NYX MEDIA5(有碼)
+http://195.154.231.101:8080/live/pi2021001/456321/360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IBiZa-TV3 尻尻SOD" tvg-logo="" group-title="18+",IBiZa-TV3 尻尻SOD
+http://195.154.231.101:8080/live/pi2021001/456321/363.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="武林外传" tvg-logo="" group-title="影视轮播",武林外传
 http://2098822049.kj.gerss.cn/6/huy33.php?id=11352915
 #EXTINF:-1 tvg-id="" tvg-name="家有儿女" tvg-logo="" group-title="影视轮播",家有儿女
@@ -93,87 +125,52 @@ http://api.gerss.cn/QQ626112999/iqy.php?id=107
 http://2098822049.kj.gerss.cn/6/huy33.php?id=11342402
 #EXTINF:-1 tvg-id="" tvg-name="猫和老鼠" tvg-logo="" group-title="影视轮播",猫和老鼠
 http://api.gerss.cn/QQ626112999/iqy.php?id=079
+http://103.140.229.13/BOBO/bibi.php?id=2171135
 #EXTINF:-1 tvg-id="" tvg-name="历史秘闻" tvg-logo="" group-title="影视轮播",历史秘闻
 http://api.gerss.cn/QQ626112999/iqy.php?id=046
-#EXTINF:-1 tvg-id="" tvg-name="周星驰1" tvg-logo="" group-title="影视轮播",周星驰1
-http://121.12.115.156/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="周星驰1(备)" tvg-logo="" group-title="影视轮播",周星驰1(备)
-http://2098822049.kj.gerss.cn/6/huy33.php?id=11342412
-#EXTINF:-1 tvg-id="" tvg-name="周星驰2" tvg-logo="" group-title="影视轮播",周星驰2
-http://42.81.144.99/live.cache.cmvideo.cn/wd_r3/virtuallive/5100144102/150/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="周星驰" tvg-logo="" group-title="影视轮播",周星驰
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112
+#EXTINF:-1 tvg-id="" tvg-name="周星驰(备)" tvg-logo="" group-title="影视轮播",周星驰(备)
+http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="林正英" tvg-logo="" group-title="影视轮播",林正英
 http://121.12.115.156/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="林正英(备)" tvg-logo="" group-title="影视轮播",林正英(备)
 http://2098822049.kj.gerss.cn/6/huy33.php?id=11342421
-#EXTINF:-1 tvg-id="" tvg-name="成龙1" tvg-logo="" group-title="影视轮播",成龙1
-http://42.81.144.99/live.cache.cmvideo.cn/wd_r2/virtuallive/5102010211/150/index.m3u8?&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="成龙2" tvg-logo="" group-title="影视轮播",成龙2
-http://121.12.115.156/tx.hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="成龙2(备)" tvg-logo="" group-title="影视轮播",成龙2(备)
-http://2098822049.kj.gerss.cn/6/huy33.php?id=11342386
+#EXTINF:-1 tvg-id="" tvg-name="成龙" tvg-logo="" group-title="影视轮播",成龙
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/707671890
+#EXTINF:-1 tvg-id="" tvg-name="成龙(备)" tvg-logo="" group-title="影视轮播",成龙(备)
+http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="周润发" tvg-logo="" group-title="影视轮播",周润发
-http://121.12.115.156/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/639526984
 #EXTINF:-1 tvg-id="" tvg-name="周润发(备)" tvg-logo="" group-title="影视轮播",周润发(备)
-http://2098822049.kj.gerss.cn/6/huy33.php?id=11342387
+http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="洪金宝" tvg-logo="" group-title="影视轮播",洪金宝
 http://121.12.115.156/tx.hls.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="刘德华1" tvg-logo="" group-title="影视轮播",刘德华1
-http://42.81.144.99/live.cache.cmvideo.cn/wd_r3/virtuallive/5102354855/150/index.m3u8?&&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="刘德华2" tvg-logo="" group-title="影视轮播",刘德华2
-http://121.12.115.156/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="刘德华2(备)" tvg-logo="" group-title="影视轮播",刘德华2(备)
-http://2098822049.kj.gerss.cn/6/huy33.php?id=11342424
+#EXTINF:-1 tvg-id="" tvg-name="刘德华" tvg-logo="" group-title="影视轮播",刘德华1
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648
+#EXTINF:-1 tvg-id="" tvg-name="刘德华(备)" tvg-logo="" group-title="影视轮播",刘德华(备)
+http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="张国荣" tvg-logo="" group-title="影视轮播",张国荣
-http://42.81.144.99/live.cache.cmvideo.cn/wd_r3/virtuallive/5102354727/150/index.m3u8?&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="李连杰" tvg-logo="" group-title="影视轮播",李连杰
-http://121.12.115.156/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="李连杰(备)" tvg-logo="" group-title="影视轮播",李连杰(备)
-http://2098822049.kj.gerss.cn/6/huy33.php?id=11342390
-#EXTINF:-1 tvg-id="" tvg-name="邱淑贞" tvg-logo="" group-title="影视轮播",邱淑贞
-http://333222.usa7.345123.xyz/huya.php?id=11352949
-#EXTINF:-1 tvg-id="" tvg-name="徐峥" tvg-logo="" group-title="影视轮播",徐峥
-http://121.12.115.156/tx.hls.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="徐峥(备)" tvg-logo="" group-title="影视轮播",徐峥(备)
-http://2098822049.kj.gerss.cn/6/huy33.php?id=11602043
-#EXTINF:-1 tvg-id="" tvg-name="沈腾" tvg-logo="" group-title="影视轮播",沈腾
-http://121.12.115.156/tx.hls.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="沈腾(备)" tvg-logo="" group-title="影视轮播",沈腾(备)
-http://2098822049.kj.gerss.cn/6/huy33.php?id=11601968
-#EXTINF:-1 tvg-id="" tvg-name="黄渤" tvg-logo="" group-title="影视轮播",黄渤
-http://2098822049.kj.gerss.cn/6/huy33.php?id=11352876
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526
+#EXTINF:-1 tvg-id="" tvg-name="张国荣(备)" tvg-logo="" group-title="影视轮播",张国荣(备)
+http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="欢乐小品" tvg-logo="" group-title="影视轮播",欢乐小品
-http://2098822049.kj.gerss.cn/6/huy33.php?id=11352938
-#EXTINF:-1 tvg-id="" tvg-name="港产恐怖" tvg-logo="" group-title="影视轮播",港产恐怖
-http://blanki.cf/api/douyu.php?id=3637726
-#EXTINF:-1 tvg-id="" tvg-name="港产动作" tvg-logo="" group-title="影视轮播",港产动作
-http://blanki.cf/api/douyu.php?id=3637765
-#EXTINF:-1 tvg-id="" tvg-name="粤语电影" tvg-logo="" group-title="影视轮播",粤语电影
-http://blanki.cf/api/douyu.php?id=6566671
-#EXTINF:-1 tvg-id="" tvg-name="粤语电影2" tvg-logo="" group-title="影视轮播",粤语电影2
-http://blanki.cf/api/douyu.php?id=2466104
-#EXTINF:-1 tvg-id="" tvg-name="经典港片" tvg-logo="" group-title="影视轮播",经典港片
-http://api.gerss.cn/QQ626112999/iqy.php?id=031
-#EXTINF:-1 tvg-id="" tvg-name="永远致敬香港电影" tvg-logo="" group-title="影视轮播",永远致敬香港电影
-http://blanki.cf/api/douyu.php?id=9599544
-#EXTINF:-1 tvg-id="" tvg-name="【林正英】僵尸、女鬼" tvg-logo="" group-title="影视轮播",【林正英】僵尸、女鬼
-http://blanki.cf/api/douyu.php?id=218859
-#EXTINF:-1 tvg-id="" tvg-name="【林正英】僵尸、女鬼、绝版降头、经典港片" tvg-logo="" group-title="影视轮播",【林正英】僵尸、女鬼、绝版降头、经典港片
-http://blanki.cf/api/douyu.php?id=5489341
-#EXTINF:-1 tvg-id="" tvg-name="恐怖电影" tvg-logo="" group-title="影视轮播",恐怖电影
-http://blanki.cf/api/douyu.php?id=9275635
-#EXTINF:-1 tvg-id="" tvg-name="华语电影" tvg-logo="" group-title="影视轮播",华语电影
-http://blanki.cf/api/douyu.php?id=122402
-#EXTINF:-1 tvg-id="" tvg-name="华语厅" tvg-logo="" group-title="影视轮播",华语厅
-http://blanki.cf/api/douyu.php?id=925724
-#EXTINF:-1 tvg-id="" tvg-name="西游记3部曲86版+续集+后传" tvg-logo="" group-title="影视轮播",西游记3部曲86版+续集+后传
-http://blanki.cf/api/douyu.php?id=5472438
-#EXTINF:-1 tvg-id="" tvg-name="孤独的美食家" tvg-logo="" group-title="影视轮播",孤独的美食家
-http://blanki.cf/api/douyu.php?id=8953746
-#EXTINF:-1 tvg-id="" tvg-name="闲人马大姐" tvg-logo="" group-title="影视轮播",闲人马大姐
-http://blanki.cf/api/douyu.php?id=5658951
-#EXTINF:-1 tvg-id="" tvg-name="【女神金】刀刀陪看" tvg-logo="" group-title="影视轮播",【女神金】刀刀陪看
-http://blanki.cf/api/douyu.php?id=747764
-#EXTINF:-1 tvg-id="" tvg-name="花卷陪看" tvg-logo="" group-title="影视轮播",花卷陪看
-http://blanki.cf/api/douyu.php?id=52787
-#EXTINF:-1 tvg-id="" tvg-name="【冰冰】恐怖/经典/搞笑陪你一起" tvg-logo="" group-title="影视轮播",【冰冰】恐怖/经典/搞笑陪你一起
-http://blanki.cf/api/douyu.php?id=74374
+http://tx.liveplay.live.fanxing.com/live/fx_hifi_202319553_avc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="欢乐小品2" tvg-logo="" group-title="影视轮播",欢乐小品2
+http://tx.liveplay.live.fanxing.com/live/fx_hifi_1548332035_avc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now爆谷台" tvg-logo="" group-title="测试",Now爆谷台
+p9p://208.91.110.2:19806/60fdebfd0000e057cec6285042632445.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now星影台" tvg-logo="" group-title="测试",Now星影台
+p9p://208.91.110.2:19806/614568320007b89ee600382374bc77c6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now剧集台" tvg-logo="" group-title="测试",Now剧集台
+p9p://208.91.110.2:19806/603352fc000ccbbab76a435e1d637acf.m3m8
+#EXTINF:-1 tvg-id="" tvg-name="Now华剧台" tvg-logo="" group-title="测试",Now华剧台
+p9p://208.91.110.2:19806/603353d9000e02d7b76da2fb78352293.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="衛視電影台" tvg-logo="" group-title="测试",衛視電影台
+mitv://ns2.hellotvvod.com:9906/e7682ac33dfd41fc8f028f1652b6117f
+#EXTINF:-1 tvg-id="" tvg-name="LS Time電影台" tvg-logo="" group-title="测试",LS Time電影台
+mitv://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="测试",HBO
+mitv://ns2.hellotvvod.com:9906/8e83048c82a8449a93265fa063baa48d
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="测试",AXN
+mitv://ns2.hellotvvod.com:9906/5c910d743fe847e8b406bf7d180130a0

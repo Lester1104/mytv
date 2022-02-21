@@ -3,6 +3,8 @@
 http://iptv.tvfix.org/hls/jade.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2
 http://iptv.tvfix.org/hls/j2.m3u8
+#EXTINF:-1 tvg-id="416" tvg-name="TVB泰国" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",TVB泰国
+https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="马来西亚",TVB星河台
 http://iptv.tvfix.org/hls/tvbxh.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/Lester1104/mytv/main/icon/hk/tvbwuxianxinwentai.png" group-title="港澳台",无线新闻台
@@ -28,7 +30,7 @@ http://iptv.tvfix.org/hls/thrill.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCM天映经典(香港)" tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png" group-title="港澳台",CCM天映经典(香港)
 http://iptv.tvfix.org/hls/tyjd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="天映频道" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="马来西亚",天映频道
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+http://dllb.jxin122.top/jj.php?id=15&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台(台湾)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="港澳台",卫视电影台(台湾)
 http://220.134.196.147:8578/http/116.50.42.18:8081/hls/62/804/ch07.m3u8?token=
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台(台湾)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="港澳台",卫视电影台(台湾)
@@ -158,19 +160,3 @@ http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
 http://tx.liveplay.live.fanxing.com/live/fx_hifi_202319553_avc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="欢乐小品2" tvg-logo="" group-title="影视轮播",欢乐小品2
 http://tx.liveplay.live.fanxing.com/live/fx_hifi_1548332035_avc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Now爆谷台" tvg-logo="" group-title="测试",Now爆谷台
-p9p://208.91.110.2:19806/60fdebfd0000e057cec6285042632445.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Now星影台" tvg-logo="" group-title="测试",Now星影台
-p9p://208.91.110.2:19806/614568320007b89ee600382374bc77c6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Now剧集台" tvg-logo="" group-title="测试",Now剧集台
-p9p://208.91.110.2:19806/603352fc000ccbbab76a435e1d637acf.m3m8
-#EXTINF:-1 tvg-id="" tvg-name="Now华剧台" tvg-logo="" group-title="测试",Now华剧台
-p9p://208.91.110.2:19806/603353d9000e02d7b76da2fb78352293.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="衛視電影台" tvg-logo="" group-title="测试",衛視電影台
-mitv://ns2.hellotvvod.com:9906/e7682ac33dfd41fc8f028f1652b6117f
-#EXTINF:-1 tvg-id="" tvg-name="LS Time電影台" tvg-logo="" group-title="测试",LS Time電影台
-mitv://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="测试",HBO
-mitv://ns2.hellotvvod.com:9906/8e83048c82a8449a93265fa063baa48d
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="测试",AXN
-mitv://ns2.hellotvvod.com:9906/5c910d743fe847e8b406bf7d180130a0

@@ -17,7 +17,7 @@ http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
 http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="美亚电影台(香港)" tvg-logo="https://raw.githubusercontent.com/Lester1104/mytv/main/icon/tw/meiyadianyingtai.png" group-title="港澳台",美亚电影台(香港)
 http://iptv.tvfix.org/hls/mydy.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="now爆谷台" tvg-logo="https://raw.githubusercontent.com/Lester1104/mytv/main/icon/baogutai.jpg" group-title="港澳台",now爆谷台
+#EXTINF:-1 tvg-id="" tvg-name="now爆谷台" tvg-logo="https://raw.githubusercontent.com/Lester1104/mytv/main/icon/hk/baogutai.png" group-title="港澳台",now爆谷台
 http://v3948069e.live.126.net:80/live/Nowbg.flv
 #EXTINF:-1 tvg-id="6159" tvg-name="tvN(香港)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="港澳台",tvN(香港)
 http://iptv.tvfix.org/hls/tvn.m3u8

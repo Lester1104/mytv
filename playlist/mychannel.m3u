@@ -18,9 +18,11 @@ http://iptv.tvfix.org/hls/rthk31.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTHK 32" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png" group-title="港澳台",RTHK 32
 http://iptv.tvfix.org/hls/rthk32.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="美亚电影台(香港)" tvg-logo="https://raw.githubusercontent.com/Lester1104/mytv/main/icon/tw/meiyadianyingtai.png" group-title="港澳台",美亚电影台(香港)
-http://iptv.tvfix.org/hls/mydy.m3u8
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze9i7xpFAGFBZLEOfFKUo_LE
 #EXTINF:-1 tvg-id="" tvg-name="now爆谷台" tvg-logo="https://raw.githubusercontent.com/Lester1104/mytv/main/icon/hk/baogutai.png" group-title="港澳台",now爆谷台
 http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzewIopbcXzSps0zmpJli7rBM
+#EXTINF:-1 tvg-id="6152" tvg-name="有线电影台" tvg-logo="https://raw.githubusercontent.com/Lester1104/mytv/main/icon/hk/youxiandianyingtai.png" group-title="港澳台",有线电影台
+http://hd0808.top/nngtv.php?id=61
 #EXTINF:-1 tvg-id="6159" tvg-name="tvN(香港)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="港澳台",tvN(香港)
 http://iptv.tvfix.org/hls/tvn.m3u8
 #EXTINF:-1 tvg-id="6152" tvg-name="HBO(香港)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="港澳台",HBO(香港)
@@ -30,11 +32,11 @@ http://iptv.tvfix.org/hls/thrill.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCM天映经典(香港)" tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png" group-title="港澳台",CCM天映经典(香港)
 http://iptv.tvfix.org/hls/tyjd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="天映频道" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="马来西亚",天映频道
-http://dllb.jxin122.top/jj.php?id=15&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+http://hd0808.top/nngtv.php?id=15
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台(台湾)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="港澳台",卫视电影台(台湾)
 http://220.134.196.147:8578/http/116.50.42.18:8081/hls/62/804/ch07.m3u8?token=
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台(台湾)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="港澳台",卫视电影台(台湾)
-http://50.7.61.147:30080/Entry/starmovie
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzeyPvSZSS_LXHeDRJkhK127A
 #EXTINF:-1 tvg-id="6152" tvg-name="凤凰电影台" tvg-logo="https://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="港澳台",凤凰电影台
 http://iptv.tvfix.org/hls/fhdy.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港台

@@ -74,27 +74,27 @@ http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
 #EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港澳台",华视
 http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Extasy 4K" tvg-logo="" group-title="18+",Extasy 4K
-Extasy 4K,http://213.81.133.133:8080/extasy4k/index.m3u8
+http://213.81.133.133:8080/extasy4k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Extasy HD" tvg-logo="" group-title="18+",Extasy HD
-Extasy HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IBiza HDTV" tvg-logo="" group-title="18+",IBiza HDTV
-IBiza HDTV,https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
+https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IBiza HDTV(备)" tvg-logo="" group-title="18+",IBiza HDTV(备)
-IBiza HDTV(备),https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
+https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Blue Hustler 18+" tvg-logo="" group-title="18+",Blue Hustler 18+
-Blue Hustler 18+,http://srv1.roshen.live/70s5oC8mvp/mpegts?token=qnNUnXdwRyvUqPLo
+http://srv1.roshen.live/70s5oC8mvp/mpegts?token=qnNUnXdwRyvUqPLo
 #EXTINF:-1 tvg-id="" tvg-name="Super ONE" tvg-logo="" group-title="18+",Super ONE
-Super ONE,http://185.96.176.139:8080/superone/index.m3u8
+http://185.96.176.139:8080/superone/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="日本综艺" tvg-logo="" group-title="18+",日本综艺
-日本综艺,rtmp://202.39.64.234:1936/live/964
+rtmp://202.39.64.234:1936/live/964
 #EXTINF:-1 tvg-id="" tvg-name="日本" tvg-logo="" group-title="18+",日本
-日本,rtmp://202.39.64.234:1936/live/968
+rtmp://202.39.64.234:1936/live/968
 #EXTINF:-1 tvg-id="" tvg-name="Ladyboy" tvg-logo="" group-title="18+",Ladyboy
-Ladyboy,https://www.ast.tv/stream/2/cellular.m3u8
+https://www.ast.tv/stream/2/cellular.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AST TV 1 (PC) (1080p)" tvg-logo="" group-title="18+",AST TV 1 (PC) (1080p)
-AST TV 1 (PC) (1080p),https://www.ast.tv/stream/1/master.m3u8
+https://www.ast.tv/stream/1/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AST TV 2 (PC) (1080p)" tvg-logo="" group-title="18+",AST TV 2 (PC) (1080p)
-AST TV 2 (PC) (1080p),https://www.ast.tv/stream/2/master.m3u8
+https://www.ast.tv/stream/2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="松视2台" tvg-logo="https://raw.githubusercontent.com/Lester1104/mytv/main/icon/tw/songshi2tai(white%20background).jpg" group-title="18+",松视2台
 https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
 #EXTINF:-1 tvg-id="" tvg-name="松视3台" tvg-logo="https://raw.githubusercontent.com/Lester1104/mytv/main/icon/tw/songshi3tai(white%20background).jpg" group-title="18+",松视3台

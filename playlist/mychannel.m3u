@@ -97,10 +97,12 @@ https://www.ast.tv/stream/2/cellular.m3u8
 https://www.ast.tv/stream/1/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AST TV 2 (PC) (1080p)" tvg-logo="" group-title="18+",AST TV 2 (PC) (1080p)
 https://www.ast.tv/stream/2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="未知" tvg-logo="" group-title="18+",未知
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/477
 #EXTINF:-1 tvg-id="" tvg-name="松视2台" tvg-logo="https://raw.githubusercontent.com/Lester1104/mytv/main/icon/tw/songshi2tai(white%20background).jpg" group-title="18+",松视2台
 https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
 #EXTINF:-1 tvg-id="" tvg-name="松视3台" tvg-logo="https://raw.githubusercontent.com/Lester1104/mytv/main/icon/tw/songshi3tai(white%20background).jpg" group-title="18+",松视3台
-https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/479
 #EXTINF:-1 tvg-id="" tvg-name="松视4台" tvg-logo="https://raw.githubusercontent.com/Lester1104/mytv/main/icon/tw/songshi4tai(white%20background).jpg" group-title="18+",松视4台
 https://flv3948069e.live.126.net/live/sytv_02630be6be846d47da6dde603e773bc3.flv
 #EXTINF:-1 tvg-id="" tvg-name="潘朵啦玩美台" tvg-logo="https://raw.githubusercontent.com/Lester1104/mytv/main/icon/tw/pandoraperfect(white%20background).jpg" group-title="18+",潘朵啦玩美台

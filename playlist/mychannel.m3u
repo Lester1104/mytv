@@ -180,10 +180,13 @@ http://2098822049.kj.gerss.cn/6/huy33.php?id=11352915
 #EXTINF:-1 tvg-id="" tvg-name="家有儿女" tvg-logo="" group-title="影视轮播",家有儿女
 http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.xs
 #EXTINF:-1 tvg-id="" tvg-name="搞笑一家人" tvg-logo="" group-title="影视轮播",搞笑一家人
-http://2098822049.kj.gerss.cn/6/huy33.php?id=11342402
+http://txtest-xp2p.p2p.huya.com/src/1394565211-1394565211-5989611973384339456-2789253878-10057-A-0-1.xs
+#EXTINF:-1 tvg-id="" tvg-name="哆啦A梦" tvg-logo="" group-title="影视轮播",哆啦A梦
+http://txtest-xp2p.p2p.huya.com/1524418078-1524418078-6547325790441177088-3048959612-10057-A-0-1.xs
 #EXTINF:-1 tvg-id="" tvg-name="猫和老鼠" tvg-logo="" group-title="影视轮播",猫和老鼠
-http://api.gerss.cn/QQ626112999/iqy.php?id=079
-http://103.140.229.13/BOBO/bibi.php?id=2171135
+http://txtest-xp2p.p2p.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
+#EXTINF:-1 tvg-id="" tvg-name="猫和老鼠(备)" tvg-logo="" group-title="影视轮播",猫和老鼠(备)
+http://txtest-xp2p.p2p.huya.com/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
 #EXTINF:-1 tvg-id="" tvg-name="周星驰(粤语)" tvg-logo="" group-title="影视轮播",周星驰(粤语)
 http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
 #EXTINF:-1 tvg-id="" tvg-name="周星驰" tvg-logo="" group-title="影视轮播",周星驰
@@ -222,7 +225,16 @@ http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526
 http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="王晶" tvg-logo="" group-title="影视轮播",王晶
 http://txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
-#EXTINF:-1 tvg-id="" tvg-name="欢乐小品" tvg-logo="" group-title="影视轮播",欢乐小品
+#EXTINF:-1 tvg-id="" tvg-name="小品" tvg-logo="" group-title="影视轮播",小品
 http://txtest-xp2p.p2p.huya.com/src/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1.xs
-#EXTINF:-1 tvg-id="" tvg-name="欢乐小品2" tvg-logo="" group-title="影视轮播",欢乐小品2
+#EXTINF:-1 tvg-id="" tvg-name="小品2" tvg-logo="" group-title="影视轮播",小品2
 http://txtest-xp2p.p2p.huya.com/src/1423782031-1423782031-6115097259777458176-2847687518-10057-A-0-1.xs
+#EXTINF:-1 tvg-id="" tvg-name="喜剧电影" tvg-logo="" group-title="影视轮播",喜剧电影
+http://txtest-xp2p.p2p.huya.com/src/1423787843-1423787843-6115122222127382528-2847699142-10057-A-0-1.xs
+#EXTINF:-1 tvg-id="" tvg-name="国产电影" tvg-logo="" group-title="影视轮播",国产电影
+http://txtest-xp2p.p2p.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.xs
+#EXTINF:-1 tvg-id="" tvg-name="经典港片" tvg-logo="" group-title="影视轮播",经典港片
+http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
+#EXTINF:-1 tvg-id="" tvg-name="密子君" tvg-logo="" group-title="轮播",密子君
+http://txtest-xp2p.p2p.huya.com/src/1199530538005-1199530538005-5302834719795183616-2399061199466-10057-A-0-1.xs
+

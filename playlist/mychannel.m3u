@@ -99,16 +99,16 @@ https://www.ast.tv/stream/2/cellular.m3u8
 https://www.ast.tv/stream/1/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AST TV 2 (PC) (1080p)" tvg-logo="" group-title="18+",AST TV 2 (PC) (1080p)
 https://www.ast.tv/stream/2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="未知" tvg-logo="" group-title="18+",未知
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/477
+#EXTINF:-1 tvg-id="" tvg-name="松视1台" tvg-logo="" group-title="18+",松视1台
+http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6cz4mG4YHs1lZNpGt9QsCejI/m3u8
 #EXTINF:-1 tvg-id="" tvg-name="松视2台" tvg-logo="https://raw.githubusercontent.com/Lester1104/mytv/main/icon/tw/songshi2tai(white%20background).jpg" group-title="18+",松视2台
 https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
 #EXTINF:-1 tvg-id="" tvg-name="松视3台" tvg-logo="https://raw.githubusercontent.com/Lester1104/mytv/main/icon/tw/songshi3tai(white%20background).jpg" group-title="18+",松视3台
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/479
-#EXTINF:-1 tvg-id="" tvg-name="松视4台" tvg-logo="https://raw.githubusercontent.com/Lester1104/mytv/main/icon/tw/songshi4tai(white%20background).jpg" group-title="18+",松视4台
-https://flv3948069e.live.126.net/live/sytv_02630be6be846d47da6dde603e773bc3.flv
+http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6cz0U_Kqy21YHnIb0tc7Q5ak/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="极限电影台" tvg-logo="https://raw.githubusercontent.com/Lester1104/mytv/main/icon/tw/songshi4tai(white%20background).jpg" group-title="18+",极限电影台
+http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c8gZqDfvKgxf4SW3f8y8xUA/m3u8
 #EXTINF:-1 tvg-id="" tvg-name="潘朵啦玩美台" tvg-logo="https://raw.githubusercontent.com/Lester1104/mytv/main/icon/tw/pandoraperfect(white%20background).jpg" group-title="18+",潘朵啦玩美台
-https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
+http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c9IkJ9J6_5RJGVqEmlUFfcc/m3u8
 #EXTINF:-1 tvg-id="" tvg-name="做愛輸入" tvg-logo="" group-title="18+",做愛輸入
 rtmp://202.39.64.234:1938/live/949
 #EXTINF:-1 tvg-id="" tvg-name="大學女援交妹" tvg-logo="" group-title="18+",大學女援交妹

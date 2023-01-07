@@ -179,6 +179,8 @@ http://195.154.231.101:8080/live/pi2021001/456321/360.m3u8
 http://195.154.231.101:8080/live/pi2021001/456321/363.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Japan HDV" tvg-logo="" group-title="18+",Japan HDV
 http://tduzsfhg.megatv.fun/iptv/A2U3C8FHYB5PPQ/6225/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Japan HDV" tvg-logo="" group-title="18+",Japan HDV
+http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6225/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kino XXX" tvg-logo="" group-title="18+",Kino XXX
 http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/11052/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XY Plus HD" tvg-logo="" group-title="18+",XY Plus HD

@@ -217,18 +217,18 @@ http://93.152.174.144:4000/play/pinkotv/index.m3u8
 http://195.154.185.179/xx_hot_tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="erotic 4" tvg-logo="" group-title="18+",erotic 4
 http://195.154.185.179/xx_venus_tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ТНТ HD" tvg-logo="" group-title="18+",ТНТ HD
-http://myott.tv/stream/S8JK2Q2BVB/135.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CTC HD" tvg-logo="" group-title="18+",CTC HD
-http://myott.tv/stream/S8JK2Q2BVB/138.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CTC Love" tvg-logo="" group-title="18+",CTC Love
-http://myott.tv/stream/S8JK2Q2BVB/183.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A3Bikini" tvg-logo="" group-title="18+",A3Bikini
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="奥视1" tvg-logo="" group-title="18+",奥视1
+http://125.227.210.55:20845/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="奥视2" tvg-logo="" group-title="18+",奥视2
+http://125.227.210.55:55643/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="奥视3" tvg-logo="" group-title="18+",奥视3
+http://125.227.210.55:62697/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="惊艳台" tvg-logo="" group-title="18+",惊艳台
+http://125.227.210.55:57286/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="香蕉台" tvg-logo="" group-title="18+",香蕉台
+http://125.227.210.55:22522/VideoInput/play.ts
 #EXTINF:-1 tvg-id="" tvg-name="Babestation 24" tvg-logo="" group-title="18+",Babestation 24
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eropuls DE" tvg-logo="" group-title="18+",Eropuls DE
-https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Erox HD" tvg-logo="" group-title="18+",Erox HD
 http://94.229.250.73:8008/play/a002
 #EXTINF:-1 tvg-id="" tvg-name="Redlight HD" tvg-logo="" group-title="18+",Redlight HD
